@@ -1,0 +1,66 @@
+{
+    "Basics" : {
+        "Name" : "NITHISHKUMAR B",
+        "email" : "knithish389@gmail.com",
+        "Phone" : 8189824428,
+        "Degree" : "B.E",
+         "Location" : {
+            "Address" : "35 F1, Ground floor, Arangappan street - West mambalam",
+            "Pincode" : 600033,
+            "City" : "Chennai",
+            "State" : "Tamil Nadu",
+            "Country" : "India"
+        },
+        "Profiles": [
+            {
+                "LinkedIn" : "https://www.linkedin.com/in/nithishkumar-b-0aa985238",
+                "GitHub" : "https://github.com/Nithishnk23"
+            }
+        ]
+    },
+    "Education": [
+        {
+            "Institution": "Coimbatore Institute of Engineering and Technology",
+            "Department": "Computer Science and Engineering",
+            "CGPA": 7.6
+        }
+    ],
+    "Skills": [
+        {
+            "name": "HTML,CSS,Javascript,python,Adobe photoshop",
+            "level": "Intermediate"
+        }
+    ],
+    "Project": [
+        {
+            "pr1": "Bank application Development",
+            "pr2": "Disability prediction",
+            "pr3": "Paddy leaf disease detection using Machine learning"
+        }
+    ],
+    "Expertise": [
+        {
+            "Tool1": "Full stack developing",
+            "Tool2": "Multimedia",
+            "Tool3": "MS office"
+        }
+    ],
+    "Certification": [
+        {
+            "Finished": "Completed python course in GUVI",
+            "Currently": "Learning Full stack Development(MERN) in GUVI"
+        }
+    ],
+    "Languages known": [
+        {
+            "languages": "English,Tamil",
+            "level": "Excellent"
+        }
+    ],
+    "Interests": [
+        {
+            "name": "Sports, Editing",
+            "keywords": "Cricket, Football and Photo,video Editing"
+        }
+    ]
+}
